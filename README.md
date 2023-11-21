@@ -9,9 +9,6 @@
   Credit for this TryHackMe content list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/> For any suggestion feel free to reach [him.](https://github.com/rng70/) <br/> 
   Check out my Profile [OreoBiscuit](https://tryhackme.com/p/oreobiscuit656) 
 
-  
-
-
 <br/>
 
 ## Table of Contents
