@@ -1,5 +1,5 @@
 # TryHackMe Road Map
-    Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning Ethical hacking.
+    Hey Guys, here is a list of 350+ Free TryHackMe rooms to start learning Ethical hacking.
     
     I have arranged and compiled it according to different topics so that you can start hacking right away.
     
