@@ -65,7 +65,7 @@
 
 * [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
-* [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+* [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting) [Private]
 
 * [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
