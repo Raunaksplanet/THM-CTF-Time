@@ -7,7 +7,7 @@
 
 ## Note:
   Credit for this TryHackMe content list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/> For any suggestion feel free to reach [him.](https://github.com/rng70/) <br/> 
-  Check out my Profile [OreoBiscuit](https://tryhackme.com/p/oreobiscuit656) 
+  Check out my **TryHackMe** Profile [OreoBiscuit](https://tryhackme.com/p/oreobiscuit656) 
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 ---
 
-* [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+* [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) **[Private]**
 
 * [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
