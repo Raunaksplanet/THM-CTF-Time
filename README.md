@@ -53,7 +53,7 @@
 
 * [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
+* [TryHackMe | Welcome](https://tryhackme.com/room/welcome) [Private]
 
 * [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
