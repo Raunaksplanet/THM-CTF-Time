@@ -1,0 +1,6 @@
+'''
+Write up for "How to use TryHackMe" Lab
+'''
+
+After connecting to openvpn, start machine wait more than 1 minute to 
+load machine properly then firs start "Attack box" after that start "Victim box"  
