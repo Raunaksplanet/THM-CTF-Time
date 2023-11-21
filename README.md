@@ -53,7 +53,7 @@
 
 * [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) [**[Write up]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Introductory%20Room/How%20to%20use%20TryHackMe.txt)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/welcome) [Private]
+* [TryHackMe | Welcome](https://tryhackme.com/room/welcome) **[Private]**
 
 * [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
@@ -65,9 +65,9 @@
 
 * [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
-* [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting) [Private]
+* [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting) **[Private]**
 
-* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) **[unattempted]**
 
 ## Linux Fundamentals
 
