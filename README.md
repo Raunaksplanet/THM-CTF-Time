@@ -7,7 +7,9 @@
 
 ## Note:
   Credit for this TryHackMe content list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/> For any suggestion feel free to reach [him.](https://github.com/rng70/) <br/> 
-  Check out my Profile [Oreo Biscuit]([https://github.com/rng70/](https://tryhackme.com/p/oreobiscuit656))
+  Check out my Profile [Oreo Biscuit](https://tryhackme.com/p/oreobiscuit656) 
+
+  
 
 
 <br/>
