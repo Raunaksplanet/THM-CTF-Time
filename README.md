@@ -81,7 +81,7 @@
 
 * [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
-* [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+* [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Linux%20Fundamental/Linux_Fundamentals_Part_3.txt)
 
 ## Windows Fundamentals
 
