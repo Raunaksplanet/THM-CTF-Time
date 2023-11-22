@@ -1,4 +1,7 @@
-#Basic of OpenVpn:
+'''
+Basic of OpenVpn
+'''
+
 1.Connecting to the openvpn to get access to machines:
 1.1. First download openvpn configuration file from access section in tryhackme website: https://tryhackme.com/access
 1.2. After Downloading openvpn configuration file open terminal and change directory to Download section or where your openvpn configuration file present.
