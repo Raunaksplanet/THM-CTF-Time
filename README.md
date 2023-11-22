@@ -916,4 +916,4 @@
 | **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |
 
 
-**[Back To Top](#tryhackme-list-topic-wise)*
+**[Back To Top](#tryhackme-list-topicwise)*
