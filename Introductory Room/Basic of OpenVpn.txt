@@ -1,5 +1,5 @@
 '''
-Basic of OpenVpn
+Basic of OpenVpn Writeup
 '''
 
 1.Connecting to the openvpn to get access to machines:
