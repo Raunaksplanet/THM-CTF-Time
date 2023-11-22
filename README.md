@@ -75,7 +75,7 @@
 
 * [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) **[Private]**
 
-* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) **[Half Completed]** **[Unattempted]**
 
 * [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
