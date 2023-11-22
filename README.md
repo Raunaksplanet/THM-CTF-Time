@@ -19,7 +19,7 @@
 | ------------------------------------------------- |:---------------:|:-------------------------:|
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |        **10**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |        **5**              |
-| **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
+| **[Windows Fundamentals](#windows-fundamentals)** | **3**           |        **3**              |
 | **[Basic Rooms](#basics-rooms)**                  | **9**           |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
