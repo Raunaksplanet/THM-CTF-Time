@@ -51,7 +51,7 @@
 
 * [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) [**[Write up]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Introductory%20Room/How%20to%20use%20TryHackMe.txt)
+* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) **Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Introductory%20Room/How%20to%20use%20TryHackMe.txt)
 
 * [TryHackMe | Welcome](https://tryhackme.com/room/welcome) **[Private]**
 
