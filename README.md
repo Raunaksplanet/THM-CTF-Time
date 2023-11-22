@@ -7,7 +7,7 @@
 
 ## Note:
 
-  - Credit for this TryHackMe content list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/>
+  - Credit for this TryHackMe lab list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/>
   - For any suggestion feel free to reach [him.](https://github.com/rng70/) <br/>
   - Check out my **TryHackMe** Profile [OreoBiscuit](https://tryhackme.com/p/oreobiscuit656) <br/>
   - Check out My Streak Table **[Here](#my-streak-table)**
@@ -910,3 +910,7 @@
 
 
 ## My Streak Table
+| Day                                               | date            | Room Name                 |
+| ------------------------------------------------- |:---------------:|:-------------------------:|
+| **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**               |
+| **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |
