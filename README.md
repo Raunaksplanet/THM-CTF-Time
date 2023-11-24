@@ -910,10 +910,10 @@
 
 
 ## My Streak Table
-| Day                                               | date            | Room Name                                                                                                             |Total Labs|
-| ------------------------------------------------- |:---------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------: |
-| **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                                         |           **10**           |
-| **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |           **5+3**          |
-
+| Day                                               | date            | Topic                                                                                                                 |Total Room                  |    Room Completed             |
+| ------------------------------------------------- |:---------------:|:---------------------------------------------------------------------------------------:                              |:-------------------------: | :-------------------------:   |             
+| **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                                         |           **10**           |  **10**                       |   
+| **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |           **5+3**          |   **5+3**                     |
+| **3**                                             | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **6**                       | 
 
 **[Back To Top](#tryhackme-lab-list-topicwise)*
