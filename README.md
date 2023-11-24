@@ -110,7 +110,7 @@
 
 * [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-* [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
+* [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining) **Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/edit/main/Basic%20Rooms/Linux_Strength_Training.txt)
 
 * [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
