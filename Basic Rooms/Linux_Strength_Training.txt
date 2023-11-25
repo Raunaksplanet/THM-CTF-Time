@@ -22,8 +22,10 @@ What we can do                            Syntax                                
 **CTRL+L allows you to clear the screen quicker rather than typing 'clear' all the time.**
 
 
+--- Task 4 ---
 
-
+last 2nd task: to downlaod file use this command, "scp -p <port number> sarah@<ip address>:/path/to/file /path/to/save/file"
+from main machine 
 
 
 
