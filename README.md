@@ -23,7 +23,7 @@
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |        **10**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |        **5**              |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |        **3**              |
-| **[Basic Rooms](#basics-rooms)**                  | **9**           |                           |
+| **[Basic Rooms](#basics-rooms)**                  | **9**           |        **7**              |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
@@ -915,5 +915,6 @@
 | **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                                         |           **10**           |  **10**                       |   
 | **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |           **5+3**          |   **5+3**                     |
 | **3**                                             | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **6**                       | 
+| **4**                                             | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **1(2 left for later)**     | 
 
 **[Back To Top](#tryhackme-lab-list-topicwise)*
