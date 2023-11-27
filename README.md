@@ -178,7 +178,7 @@
 
 * [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-* [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+* [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware) **[unattempted]**
 
 ## Tooling
 
