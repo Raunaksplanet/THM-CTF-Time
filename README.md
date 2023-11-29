@@ -26,7 +26,7 @@
 | **[Basic Rooms](#basics-rooms)**                  | **9**           |        **7**              |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
-| **[Networking](#networking)**                     | **7**           |                           |
+| **[Networking](#networking)**                     | **7**           |         **6**             |
 | **[Tooling](#tooling)**                           | **17**          |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
@@ -915,6 +915,9 @@
 | **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                                         |           **10**           |  **10**                       |   
 | **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |           **5+3**          |   **5+3**                     |
 | **3**                                             | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **6**                       | 
-| **4**                                             | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **1(2 left for later)**     | 
+| **4**                                             | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **1**                       | 
+| **5**                                             | **29/11/23**    |        **[Networking](#networking)**                                                                                  |           **7**            |   **6**                       | 
+
+
 
 **[Back To Top](#tryhackme-lab-list-topicwise)*
