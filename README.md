@@ -25,8 +25,8 @@
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |        **3**              |
 | **[Basic Rooms](#basics-rooms)**                  | **9**           |        **7**              |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
-| **[Scripting](#scripting)**                       | **8**           |                           |
-| **[Networking](#networking)**                     | **7**           |         **6**             |
+| **[Scripting](#scripting)**                       | **8**           |        **4**              |
+| **[Networking](#networking)**                     | **7**           |        **6**              |
 | **[Tooling](#tooling)**                           | **17**          |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
