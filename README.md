@@ -158,7 +158,7 @@
 
 * [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-* [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
+* [TryHackMe | Learn Rust](https://tryhackme.com/room/rust) **[unattempted]**
 
 * [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara) **[unattempted]**
 
