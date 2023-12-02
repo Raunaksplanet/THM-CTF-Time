@@ -917,7 +917,7 @@
 | **3**                                             | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **6**                       | 
 | **4**                                             | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |   **1**                       | 
 | **5**                                             | **29/11/23**    |        **[Networking](#networking)**                                                                                  |           **7**            |   **6**                       | 
-
+| **6**                                             | **2/12/23**    |         **[Scripting](#scripting)**                                                                                  |           **7**            |   **6**                       | 
 
 
 **[Back To Top](#tryhackme-lab-list-topicwise)*
