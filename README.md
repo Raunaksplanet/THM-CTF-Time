@@ -186,7 +186,7 @@
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-* [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)**[Private]**
+* [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)  **[Private]**
 
 * [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
@@ -194,7 +194,7 @@
 
 * [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
-* [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)**[Private]**
+* [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)  **[Private]**
 
 * [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
