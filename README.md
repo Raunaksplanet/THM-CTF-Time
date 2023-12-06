@@ -920,7 +920,7 @@
 | **6**                                             | **2/12/23**    |         **[Scripting](#scripting)**                                                                                    |           **7**            |       **6**                   | 
 | **7**                                             | **2/12/23**    |         **[Reconnaissance](#recon)**                                                                                   |           **10**           |       **6**                   |
 | **8**                                             | **3/12/23**    |         **[Reconnaissance](#recon)**                                                                                   |           **10**           |       **2**                   |
-| **9**                                             | **6/12/23**    |         **[Crypto & Hashes](#crypto--hashes)*                                                                          |           **5**            |       **2**                   |
+| **9**                                             | **6/12/23**    |         **[Crypto & Hashes](#crypto--hashes)**                                                                          |           **5**            |       **2**                   |
 
 
 
