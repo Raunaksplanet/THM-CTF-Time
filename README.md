@@ -78,7 +78,7 @@
 
 * [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) **[Private]**
 
-* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) **[Half Completed]** **[Unattempted]**
+* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)  **[Unattempted]**
 
 * [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
@@ -190,7 +190,7 @@
 
 * [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
-* [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
+* [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux) **[Unattempted]**
 
 * [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
