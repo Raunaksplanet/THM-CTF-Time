@@ -206,7 +206,7 @@
 
 * [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
-* [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)  *Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Tooling/Nmap%20Live%20Host%20Discovery.txt)
+* [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)  **Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Tooling/Nmap%20Live%20Host%20Discovery.txt)
 
 * [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
