@@ -900,6 +900,8 @@
 
 - [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 
+- [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+
 - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
 
 - [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
