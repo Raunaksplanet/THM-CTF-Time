@@ -31,9 +31,9 @@
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **27**          |                           |
-| **[Android](#android)**                           | **1**           |                           |
+| **[Android](#android)**                           | **1**           |        **1**              |
 | **[Forensics](#forensics)**                       | **5**           |                           |
-| **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |                           |
+| **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |        **1**              |
 | **[Reverse Engineering](#reverse-engineering)**   | **11**          |                           |
 | **[Malware Analysis](#malware-analysis)**         | **7**           |                           |
 | **[Privilege Escalation](#privesc)**              | **13**          |                           |
@@ -912,21 +912,20 @@
 
 
 ## My Streak Table
-| Day                                               | date            | Topic                                                                                                                 |Total Room                  |    Room Completed             |
-| ------------------------------------------------- |:---------------:|:---------------------------------------------------------------------------------------:                              |:-------------------------: | :-------------------------:   |     
-| **1**                                             | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                                         |           **10**           |       **10**                  |   
-| **2**                                             | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**              |           **5+3**          |       **5+3**                 |
-| **3**                                             | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |       **6**                   | 
-| **4**                                             | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                               |           **9**            |       **1**                   | 
-| **5**                                             | **29/11/23**    |        **[Networking](#networking)**                                                                                  |           **7**            |       **6**                   | 
-| **6**                                             | **2/12/23**     |         **[Scripting](#scripting)**                                                                                   |           **7**            |       **6**                   | 
-| **7**                                             | **2/12/23**     |         **[Reconnaissance](#recon)**                                                                                  |           **10**           |       **6**                   |
-| **8**                                             | **3/12/23**     |         **[Reconnaissance](#recon)**                                                                                  |           **10**           |       **2**                   |
-| **9**                                             | **6/12/23**     |         **[Crypto & Hashes](#crypto--hashes)**                                                                        |           **5**            |       **2**                   |
-| **10**                                            | **7/12/23**     |         **[Tooling](#tooling)**                                                                                       |           **17**           |       **11**                  |
-| **11**                                            | **12/12/23**    |        **[Tooling](#tooling)**                                                                                        |           **17**           |       **2**                   | 
-
-
+| Day    | date            | Topic                                                                                                      |Total Room                  |    Room Completed             |
+| ------ |:---------------:|:--------------------------------------------------------------------------------------------------------:  |:-------------------------: | :-------------------------:   |     
+| **1**  | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                              |           **10**           |       **10**                  |   
+| **2**  | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**   |           **5+3**          |       **5+3**                 |
+| **3**  | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **6**                   | 
+| **4**  | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **1**                   | 
+| **5**  | **29/11/23**    |        **[Networking](#networking)**                                                                       |           **7**            |       **6**                   | 
+| **6**  | **2/12/23**     |         **[Scripting](#scripting)**                                                                        |           **7**            |       **6**                   | 
+| **7**  | **2/12/23**     |         **[Reconnaissance](#recon)**                                                                       |           **10**           |       **6**                   |
+| **8**  | **3/12/23**     |         **[Reconnaissance](#recon)**                                                                       |           **10**           |       **2**                   |
+| **9**  | **6/12/23**     |         **[Crypto & Hashes](#crypto--hashes)**                                                             |           **5**            |       **2**                   |
+| **10** | **7/12/23**     |         **[Tooling](#tooling)**                                                                            |           **17**           |       **11**                  |
+| **11** | **12/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   | 
+| **12** | **13/12/23**    |        **[Android](#android) &  [Wifi Hacking](#wi-fi-hacking)**                                           |           **1+1**          |       **2**                   | 
 
 
 
