@@ -214,9 +214,9 @@
 
 * [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)  **[unattempted]**
 
-* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)  **[unattempted]**
 
 ## Crypto & Hashes
 
