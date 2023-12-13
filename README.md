@@ -19,7 +19,7 @@
 </aside>
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms | Unattempted | 
-| ------------------------------------------------- |:---------------:|:-------------------------:||:----------:|
+| ------------------------------------------------- |:---------------:|:-------------------------:| :----------:|
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |        **10**             |             |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |        **5**              |             |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |        **3**              |             |
