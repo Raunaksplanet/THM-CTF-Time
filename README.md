@@ -27,7 +27,7 @@
 | **[Reconnaissance](#recon)**                      | **10**          |        **8**              |
 | **[Scripting](#scripting)**                       | **8**           |        **4**              |
 | **[Networking](#networking)**                     | **7**           |        **6**              |
-| **[Tooling](#tooling)**                           | **17**          |                           |
+| **[Tooling](#tooling)**                           | **17**          |        **15**             |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **27**          |                           |
