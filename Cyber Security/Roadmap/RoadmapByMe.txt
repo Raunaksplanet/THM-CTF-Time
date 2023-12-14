@@ -14,25 +14,6 @@
                                                • https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235 (Edureka CS videos)
                                                • https://explainshell.com/# (Explain Shells commands)
 
-2.Programming Languges for Cyber Sec:
-              • Web
-                • HTML
-                • JS
-                • PHP & MYSQL
-
-              • General Programming Language
-                • C/C++
-                • Java
-
-              • Scripting Language
-                • Python
-                • Bash
-                • PowerShell
-                • Ruby 
-                • Perl
-
-              • Reverse Engineering
-                • Assembly 
 
 2.Programming Languges Learning: • (C++)
                                     Example Programs:         https://www.geeksforgeeks.org/c-programming-examples/?ref=shm
@@ -53,22 +34,52 @@
                                 • Programming Questions
                                   https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
                                 
+                                • Web
+                                  • HTML
+                                  • JS
+                                  • PHP & MYSQL
+
+                                • General Programming Language
+                                  • C/C++
+                                  • Java
+
+                                • Scripting Language
+                                  • Python
+                                  • Bash
+                                  • PowerShell
+                                  • Ruby 
+                                  • Perl
+
+                                • Reverse Engineering
+                                  • Assembly 
 
 
 
-1.Youtube CS Course/Playlist: • freeCodeCamp: PicoCTF                      (https://www.youtube.com/watch?v=uIkxsBgkpj8&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=3)
+1.Youtube CS Courses/Playlist: • freeCodeCamp: PicoCTF                     (https://www.youtube.com/watch?v=uIkxsBgkpj8&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=3)
                                               Web App Penetration Testing  (https://www.youtube.com/watch?v=2_lswM1S264&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=4&t=39s)
                               • The Cyber Expert: Python For CyberSec      (https://www.youtube.com/playlist?list=PL-DxAN1jsRa-VpfPWjnaN5jz_e2wM0o3V)
-
+                              • HackerSploit: Python For PenTesting        (https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)
+                              • Grant Collins CTF                          (https://www.youtube.com/watch?v=bPv5pb7AcYs&list=LL&index=13&t=520s)
+                                                                           (https://www.youtube.com/watch?v=Zw25_ySOrC0&list=LL&index=14&t=236s)
+                                                                           (https://www.youtube.com/watch?v=5C-OtW7C5oU&list=LL&index=29&t=331s)
+                              • The Cyber Expert CTF                       (https://www.youtube.com/watch?v=RHUw2HRI6gc&list=PL-DxAN1jsRa-FnzQ9rz2eU5iauCLGxpAW&index=9)
+                              • The Cyber Expert CVE Knowledge             (https://www.youtube.com/watch?v=a-uqOQjvyPA&list=PL-DxAN1jsRa-FnzQ9rz2eU5iauCLGxpAW&index=12&pp=iAQB)
+                                                                           (https://www.youtube.com/watch?v=gUHl4nu-ndo&list=PL-DxAN1jsRa-FnzQ9rz2eU5iauCLGxpAW&index=13)
 
 
 
 Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
                                                                     • HackTheBox                                https://www.hackthebox.com/
                                                                     • PicoCTF                                   https://picoctf.org/ 
-                                                                    • WsCubeTeach (Tutorials Freak & art2hack)  https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
+                                                                    • RootMe                                    https://www.root-me.org/?page=news&lang=fr
                                                                     • VulnHub (OS Related)                      https://www.vulnhub.com/
+                                                                    • PentesterLab                              https://www.pentesterlab.com/
+                                                                    • API Security                              https://www.apisecuniversity.com/#:~:text=APIsec%20University%20offers%20free%2C%20hands,courses%20dedicated%20to%20API%20Security.
+                                                                    • WsCubeTeach (Tutorials Freak & art2hack)  https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
                                                                     • PortSwigger (Web Related)                 https://portswigger.net/
+                                                                    • Trailhead                                 https://trailhead.salesforce.com/en/career-path/cybersecurity/
+                                                                    • OverTheWire (Linux)                       https://overthewire.org/wargames/
+                                                                    • CompTIA Security+ Labs                    https://www.101labs.net/comptia-security/
                                                                     • metasploitable (Linux) 
 
 
@@ -83,3 +94,9 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                               • ITF+ (IT Fundamentals)
                      • EC-COUNCIL
                               • CEH (Certified Ethical hacker)
+
+
+ 
+
+3.Topics related to CS: • Rerverse & bind shell: https://medium.com/bugbountywriteup/reverse-shell-vs-bind-shell-d5a1e80b6a6c
+                        • Cyber Security Roadmap by TCM 2023: https://tcm-sec.com/so-you-want-to-be-a-hacker-2023-edition/
