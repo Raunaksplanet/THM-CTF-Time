@@ -232,7 +232,7 @@
 
 * [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-## Steganography
+## Steganography **[unattempted]**
 
 ---
 
