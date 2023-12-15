@@ -226,7 +226,7 @@
 
 * [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
-* [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+* [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)  **[Unattempted]**
 
 * [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
@@ -236,11 +236,11 @@
 
 ---
 
-* [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
+* [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)  **[Private]**
 
 * [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
 
-* [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
+* [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)  **[Private]**
 
 * [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
