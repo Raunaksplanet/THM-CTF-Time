@@ -28,7 +28,7 @@
 | **[Scripting](#scripting)**                       | **8**           |        **4**              |    **4**    |
 | **[Networking](#networking)**                     | **7**           |        **6**              |    **1**    |
 | **[Tooling](#tooling)**                           | **17**          |        **15**             |    **3**    |
-| **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |             |
+| **[Crypto & Hashes](#crypto--hashes)**            | **5**           |        **4**              |    **1**    |
 | **[Steganography](#steganography)**               | **6**           |                           |             |
 | **[Web](#web)**                                   | **27**          |                           |             |
 | **[Android](#android)**                           | **1**           |        **1**              |             |
@@ -927,7 +927,7 @@
 | **11** | **12/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   | 
 | **12** | **13/12/23**    |        **[Android](#android) &  [Wifi Hacking](#wi-fi-hacking)**                                           |           **1+1**          |       **2**                   | 
 | **13** | **13/12/23**     |         **[Tooling](#tooling)**                                                                           |           **17**           |       **2**                   |
-
+| **14** | **15/12/23**     |         **[Crypto & Hashes](#crypto--hashes)**                                                            |           **5**            |       **2**                   |
 
 
 
