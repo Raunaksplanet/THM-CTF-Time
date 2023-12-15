@@ -29,7 +29,7 @@
 | **[Networking](#networking)**                     | **7**           |        **6**              |    **1**    |
 | **[Tooling](#tooling)**                           | **17**          |        **15**             |    **3**    |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |        **4**              |    **1**    |
-| **[Steganography](#steganography-[unattempted])** | **6**           |                           |             |
+| **[Steganography](#steganography-unattempted-topic)** | **6**           |                           |             |
 | **[Web](#web)**                                   | **27**          |                           |             |
 | **[Android](#android)**                           | **1**           |        **1**              |             |
 | **[Forensics](#forensics)**                       | **5**           |                           |             |
@@ -232,7 +232,7 @@
 
 * [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-## Steganography [unattempted]
+## Steganography unattempted topic
 ---
 
 * [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)  **[Private]**
