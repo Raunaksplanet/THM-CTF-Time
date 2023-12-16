@@ -29,10 +29,10 @@
 | **[Networking](#networking)**                         | **7**           |        **6**              |    **1**    |
 | **[Tooling](#tooling)**                               | **17**          |        **15**             |    **3**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
-| **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |   **6**     |
+| **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |    **6**    |
 | **[Web](#web)**                                       | **27**          |                           |             |
 | **[Android](#android)**                               | **1**           |        **1**              |             |
-| **[Forensics](#forensics)**                           | **5**           |                           |             |
+| **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |             |
 | **[Reverse Engineering](#reverse-engineering)**       | **11**          |                           |             |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |                           |             |
