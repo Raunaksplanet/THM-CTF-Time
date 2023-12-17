@@ -31,9 +31,26 @@
 				                            GeeksForGeeks	            https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/
 				                            Projects	                https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=shm
 
+                                 • (HTML, CSS)
+                                    LoveBabbar:               https://www.youtube.com/watch?v=k7ELO356Npo&list=LL&index=6&t=6415s
+                                    CodeWithHarry             https://www.youtube.com/watch?v=BsDoLVMnmZs&list=LL&index=5&t=5s
+                                    SuperSimpleDev            https://www.youtube.com/watch?v=G3e-cpL7ofc&list=LL&index=4&t=4s
+                                    BroCode                   https://www.youtube.com/watch?v=HGTJBPNC-Gw&list=LL&index=2&t=8s
+                                <--- Playlists ---> 
+                                    ApnaaCollege              https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
+                                    ApnaaCollege              https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
+                                    CodeWithHarry             https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w
+                                    LoveBabbar                https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
+                                    LoveBabbar(OperatingSys)  https://www.youtube.com/watch?v=3obEP8eLsCw&list=PLDzeHZWIZsTrd4HFQ4-z8TmacD0OQxkmx&index=2
+                                    LoveBabbar(DBMS)          https://www.youtube.com/watch?v=dl00fOOYLOM&list=PLDzeHZWIZsTrd4HFQ4-z8TmacD0OQxkmx&index=4
+                                    NesoAcademy(DBMS)         https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ
+
+
+
                                 • Programming Questions
                                   https://github.com/Raunaksplanet/Problem-Questions-and-Patterns-In-C-CPP-JAVA
                                 
+                                <--- Languages required in CyberSec --->
                                 • Web
                                   • HTML
                                   • JS
@@ -52,6 +69,7 @@
 
                                 • Reverse Engineering
                                   • Assembly 
+                                <--- Languages required in CyberSec --->
 
 
 
