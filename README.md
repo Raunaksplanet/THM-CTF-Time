@@ -918,18 +918,16 @@
 | **3**  | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **6**                   | 
 | **4**  | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **1**                   | 
 | **5**  | **29/11/23**    |        **[Networking](#networking)**                                                                       |           **7**            |       **6**                   | 
-| **6**  | **2/12/23**     |         **[Scripting](#scripting)**                                                                        |           **7**            |       **6**                   | 
-| **7**  | **2/12/23**     |         **[Reconnaissance](#recon)**                                                                       |           **10**           |       **6**                   |
-| **8**  | **3/12/23**     |         **[Reconnaissance](#recon)**                                                                       |           **10**           |       **2**                   |
-| **9**  | **6/12/23**     |         **[Crypto & Hashes](#crypto--hashes)**                                                             |           **5**            |       **2**                   |
-| **10** | **7/12/23**     |         **[Tooling](#tooling)**                                                                            |           **17**           |       **11**                  |
+| **6**  | **2/12/23**     |        **[Scripting](#scripting)**                                                                         |           **7**            |       **6**                   | 
+| **7**  | **2/12/23**     |        **[Reconnaissance](#recon)**                                                                        |           **10**           |       **6**                   |
+| **8**  | **3/12/23**     |        **[Reconnaissance](#recon)**                                                                        |           **10**           |       **2**                   |
+| **9**  | **6/12/23**     |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
+| **10** | **7/12/23**     |        **[Tooling](#tooling)**                                                                             |           **17**           |       **11**                  |
 | **11** | **12/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   | 
 | **12** | **13/12/23**    |        **[Android](#android) &  [Wifi Hacking](#wi-fi-hacking)**                                           |           **1+1**          |       **2**                   | 
-| **13** | **13/12/23**     |         **[Tooling](#tooling)**                                                                           |           **17**           |       **2**                   |
-| **14** | **15/12/23**     |         **[Crypto & Hashes](#crypto--hashes)**                                                            |           **5**            |       **2**                   |
-
-
-
+| **13** | **13/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   |
+| **14** | **15/12/23**    |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
+| **15** | **19/12/23**    |        **[Reverse Engineering](#reverse-engineering) & [Malware Analysis](#malware-analysis)**             |           **11+7**         |       **7+4**                 |
 
 
 
