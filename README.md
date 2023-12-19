@@ -22,8 +22,8 @@
 | -------------------------------------------------     |:---------------:|:-------------------------:| :----------:|
 | **[Introductory Rooms](#intro-rooms)**                | **10**          |        **10**             |    **1**    |
 | **[Linux Fundamentals](#linux-fundamentals)**         | **5**           |        **5**              |    **1**    |
-| **[Windows Fundamentals](#windows-fundamentals)**     | **3**           |        **3**              |             |
-| **[Basic Rooms](#basics-rooms)**                      | **9**           |        **7**              |             |
+| **[Windows Fundamentals](#windows-fundamentals)**     | **3**           |        **3**              |    **0**    |
+| **[Basic Rooms](#basics-rooms)**                      | **9**           |        **7**              |    **0**    |
 | **[Reconnaissance](#recon)**                          | **10**          |        **8**              |    **2**    |
 | **[Scripting](#scripting)**                           | **8**           |        **4**              |    **4**    |
 | **[Networking](#networking)**                         | **7**           |        **6**              |    **1**    |
@@ -31,9 +31,9 @@
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
 | **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |    **6**    |
 | **[Web](#web)**                                       | **27**          |                           |             |
-| **[Android](#android)**                               | **1**           |        **1**              |             |
+| **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
-| **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |             |
+| **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
 | **[Reverse Engineering](#reverse-engineering)**       | **11**          |                           |             |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |                           |             |
 | **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
@@ -335,21 +335,21 @@
 
 ---
 
-* [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
+* [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664) **[Private]**
 
 * [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
-* [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
+* [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)  **[Private]**
 
 * [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
 * [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
-* https://tryhackme.com/room/ccradare
+* https://tryhackme.com/room/ccradare  **[Private]**
 
-* [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
+* [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)  **[Private]**
 
-* [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
+* [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)   **[Private]**
 
 * [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
