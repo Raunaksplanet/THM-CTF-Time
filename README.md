@@ -34,7 +34,7 @@
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
-| **[Reverse Engineering](#reverse-engineering)**       | **11**          |                           |             |
+| **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **7**              |    **4**    |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |                           |             |
 | **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
 | **[Windows](#windows)**                               | **7**           |                           |             |
@@ -341,9 +341,9 @@
 
 * [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)  **[Private]**
 
-* [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+* [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)  **[unattempted]**
 
-* [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
+* [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) **[unattempted]**
 
 * https://tryhackme.com/room/ccradare  **[Private]**
 
@@ -351,11 +351,11 @@
 
 * [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)   **[Private]**
 
-* [TryHackMe | Aster](https://tryhackme.com/room/aster)
+* [TryHackMe | Aster](https://tryhackme.com/room/aster)  **[unattempted]**
 
 * [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 
-* [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+* [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)  **[unattempted]**
 
 ## Malware Analysis
 
