@@ -35,7 +35,7 @@
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
 | **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **7**              |    **4**    |
-| **[Malware Analysis](#malware-analysis)**             | **7**           |                           |             |
+| **[Malware Analysis](#malware-analysis)**             | **7**           |        **4**              |    **3**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
 | **[Windows](#windows)**                               | **7**           |                           |             |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
@@ -365,15 +365,15 @@
 
 * [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
-* [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+* [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)  **[unattempted]**
 
 * [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
 * [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
-* [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+* [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)  **[unattempted]**
 
-* [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
+* [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)  **[unattempted]**
 
 ## PrivEsc
 
