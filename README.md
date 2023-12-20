@@ -40,7 +40,7 @@
 | **[Windows](#windows)**                               | **7**           |                           |             |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
-| **[Buffer Overflow](#bufferoverflow-unattempted)**    | **4**           |                           |             |
+| **[Buffer Overflow](#bufferoverflow-unattempted)**    | **4**           |        **0**              |    **4**    |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
