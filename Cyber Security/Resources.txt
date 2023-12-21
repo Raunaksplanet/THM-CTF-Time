@@ -1,8 +1,3 @@
-1. Bitten teach course
-2. cehv12
-3. oscp 
-
-
 ------ Programming ------
 1. TCE(python)                                                  https://www.youtube.com/playlist?list=PL-DxAN1jsRa-VpfPWjnaN5jz_e2wM0o3V
 2. TCE(Bash)                                                    https://www.youtube.com/playlist?list=PL-DxAN1jsRa9MKIpon0ZBq_QIfMdw3cfM
@@ -15,8 +10,6 @@
 2. TCE(Reverse Engineeing)                                      https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
 3. TCE(Binary Exploitation)                                     https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
 
-
-
 ------ WAPT ------
 1. Hacker Vlog (DVWA)                                           https://www.youtube.com/watch?v=IcVYyF3EEbk
 2. Web Application Pentesting (The Cyber Mentor)                https://www.youtube.com/watch?v=IcVYyF3EEbk
@@ -25,15 +18,15 @@
 5. PentesterLab                                                 
 6. PortSwigger                                                 
 
-
-
 ------ Hacking ------
 1. The Cyber Mentor (Full-Length Hacking Courses)              https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
 2. WsCube Tech (hacking1)                                      https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R
 3. WsCube Tech (hacking2)                                      https://www.youtube.com/watch?v=x3IwvPvDpKE&list=LL&index=3&t=36705s
 4. WsCube Tech (hacking3)                                      https://www.youtube.com/watch?v=Rgvzt0D8bR4&list=LL&index=2&t=25707s
-4. 101 Labs                                                    https://www.youtube.com/watch?v=Rgvzt0D8bR4&list=LL&index=2&t=25707s
-
+5. 101 Labs                                                   
+6. Bitten teach course
+7. cehv12
+8. oscp 
 
 ------ BurpSuite ------
 1. Bitten Tech                                                  https://www.youtube.com/playlist?list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
@@ -43,9 +36,6 @@
 
 ------ API Security ------
 1. ApiSec
-
-
-
 
 ------ CTF ------
 1. Bitten teach (THM)                                           https://www.youtube.com/playlist?list=PLkW9FMxqUvyZjyc-GrZKFDxSJ9_OMSwsu
