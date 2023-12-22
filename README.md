@@ -34,7 +34,7 @@
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
-| **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **7**              |    **4**    |
+| **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **8**              |    **3**    |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |        **4**              |    **3**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
 | **[Windows](#windows)**                               | **7**           |                           |             |
@@ -341,7 +341,7 @@
 
 * [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)  **[Private]**
 
-* [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)  **[unattempted]**
+* [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)  
 
 * [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) **[unattempted]**
 
@@ -928,7 +928,7 @@
 | **13** | **13/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   |
 | **14** | **15/12/23**    |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
 | **15** | **19/12/23**    |        **[Reverse Engineering](#reverse-engineering) & [Malware Analysis](#malware-analysis)**             |           **11+7**         |       **7+4**                 |
-
+| **16** | **22/12/23**    |        **[Reverse Engineering](#reverse-engineering)**                                                     |           **11**           |       **1**                   |
 
 
 
