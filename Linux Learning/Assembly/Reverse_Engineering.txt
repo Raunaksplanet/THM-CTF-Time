@@ -16,3 +16,7 @@ Ans. Software Reverse Engineering is a process of recovering the design,
 2. There is 3 section in Assembly file, Text, Data, BSS.
 3. Check AssemblyCode.asm for more Details
 4. Dissembler:- Convert machine code into assembly code.
+
+
+Reverse Engineering Linux Tool Article: https://www.thegeekstuff.com/2012/03/reverse-engineering-tools/ 
+
