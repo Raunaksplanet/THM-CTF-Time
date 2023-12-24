@@ -35,7 +35,7 @@
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
 | **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **8**              |    **3**    |
-| **[Malware Analysis](#malware-analysis)**             | **7**           |        **4**              |    **3**    |
+| **[Malware Analysis](#malware-analysis)**             | **7**           |        **5**              |    **2**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
 | **[Windows](#windows)**                               | **7**           |                           |             |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
@@ -365,7 +365,7 @@
 
 * [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
-* [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)  **[unattempted]**
+* [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)  
 
 * [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
@@ -929,10 +929,9 @@
 | **14** | **15/12/23**    |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
 | **15** | **19/12/23**    |        **[Reverse Engineering](#reverse-engineering) & [Malware Analysis](#malware-analysis)**             |           **11+7**         |       **7+4**                 |
 | **16** | **22/12/23**    |        **[Reverse Engineering](#reverse-engineering)**                                                     |           **11**           |       **1**                   |
+| **17** | **23/12/23**    |       **[Malware Analysis](#malware-analysis)**                                                            |           **7**            |       **1**                   |
 
-
-
-
+ 
 
 
 
