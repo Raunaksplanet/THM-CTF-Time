@@ -277,7 +277,7 @@
 
 * [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-* [TryHackMe | Injection](https://tryhackme.com/room/injection  **[Private]**
+* [TryHackMe | Injection](https://tryhackme.com/room/injection)  **[Private]**
 
 * [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)  **[Private]**
 
