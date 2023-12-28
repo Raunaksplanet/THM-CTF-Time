@@ -930,7 +930,7 @@
 | **15** | **19/12/23**    |        **[Reverse Engineering](#reverse-engineering) & [Malware Analysis](#malware-analysis)**             |           **11+7**         |       **7+4**                 |
 | **16** | **22/12/23**    |        **[Reverse Engineering](#reverse-engineering)**                                                     |           **11**           |       **1**                   |
 | **17** | **23/12/23**    |       **[Malware Analysis](#malware-analysis)**                                                            |           **7**            |       **1**                   |
-
+| **18** | **28/12/23**    |       **[Web](#web)**                                                                                      |           **27**           |       **3**                   |
  
 
 
