@@ -251,9 +251,9 @@
 
 ---
 
-* [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
+* [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)  **[Private]**
 
-* [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
+* [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)  **[Private]**
 
 * [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
@@ -263,7 +263,7 @@
 
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-* [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
+* [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)  **[Private]**
 
 * [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
@@ -277,11 +277,11 @@
 
 * [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-* [TryHackMe | Injection](https://tryhackme.com/room/injection)
+* [TryHackMe | Injection](https://tryhackme.com/room/injection  **[Private]**
 
-* [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
+* [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)  **[Private]**
 
-* [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
+* [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)  **[Private]**
 
 * [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
