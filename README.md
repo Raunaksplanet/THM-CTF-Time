@@ -20,14 +20,14 @@
 
 | Name of Topic                                         | Number of Rooms | Number of Completed Rooms | Unattempted | 
 | -------------------------------------------------     |:---------------:|:-------------------------:| :----------:|
-| **[Introductory Rooms](#intro-rooms)**                | **10**          |        **10**             |    **1**    |
-| **[Linux Fundamentals](#linux-fundamentals)**         | **5**           |        **5**              |    **1**    |
+| **[Introductory Rooms](#intro-rooms)**                | **8**           |        **7**              |    **1**    |
+| **[Linux Fundamentals](#linux-fundamentals)**         | **4**           |        **3**              |    **1**    |
 | **[Windows Fundamentals](#windows-fundamentals)**     | **3**           |        **3**              |    **0**    |
 | **[Basic Rooms](#basics-rooms)**                      | **9**           |        **7**              |    **0**    |
 | **[Reconnaissance](#recon)**                          | **10**          |        **8**              |    **2**    |
 | **[Scripting](#scripting)**                           | **8**           |        **4**              |    **4**    |
-| **[Networking](#networking)**                         | **7**           |        **6**              |    **1**    |
-| **[Tooling](#tooling)**                               | **17**          |        **15**             |    **3**    |
+| **[Networking](#networking)**                         | **6**           |        **5**              |    **1**    |
+| **[Tooling](#tooling)**                               | **17**          |        **16**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
 | **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |    **6**    |
 | **[Web](#web)**                                       | **27**          |        **19**             |    **8**    |
@@ -56,8 +56,6 @@
 
 * [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) **Writeup:-**[**[Here]**](https://github.com/Raunaksplanet/CTF-Time/blob/main/Introductory%20Room/How%20to%20use%20TryHackMe.txt)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/welcome) **[Private]**
-
 * [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 * [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
@@ -68,15 +66,12 @@
 
 * [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
-* [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting) **[Private]**
-
 * [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) **[unattempted]**
 
 ## Linux Fundamentals
 
 ---
 
-* [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) **[Private]**
 
 * [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)  **[Unattempted]**
 
@@ -170,8 +165,6 @@
 
 * [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-* [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking) **[Private]**
-
 * [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
 * [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
@@ -214,9 +207,9 @@
 
 * [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)  **[unattempted]**
+* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)  
 
-* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)  **[unattempted]**
+* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)  
 
 ## Crypto & Hashes
 
