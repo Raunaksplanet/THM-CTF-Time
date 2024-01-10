@@ -43,7 +43,7 @@
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
-| **[Misc](#misc)**                                     | **35**          |                           |             |
+| **[Misc](#misc)**                                     | **30**          |                           |             |
 | **[Special Events](#special-events)**                 | **9**           |                           |             |
 | **Total Rooms:**                                      | **= 378**       |                           |             |
 
