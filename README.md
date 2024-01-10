@@ -811,10 +811,6 @@
 
 - [TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
 
-- [TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
-
-- [TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
-
 - [TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
 
 - [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
@@ -825,31 +821,29 @@
 
 - [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
-- [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
+- [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking) **[unattempted]**
 
 - [TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 
 - [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
 
-- [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
+- [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)  **[unattempted]**
 
 - [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
-
-- [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
 
 - [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
 - [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
 
-- [TryHackMe | magician](https://tryhackme.com/room/magician)
+- [TryHackMe | magician](https://tryhackme.com/room/magician)  **[unattempted]**
 
-- [TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)
+- [TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)  **[unattempted]**
 
 - [TryHackMe | Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
 
 - [TryHackMe | CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
 
-- [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
+- [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)  
 
 - [TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
 
@@ -875,7 +869,6 @@
 
 - [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
 
-- [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 ## Special Events
 
