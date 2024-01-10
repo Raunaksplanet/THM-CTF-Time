@@ -10,7 +10,6 @@
   - Credit for this TryHackMe lab list goes to  [Al Arafat Tanin | rng70](https://github.com/rng70/) <br/>
   - For any suggestion feel free to reach [him.](https://github.com/rng70/) <br/>
   - Check out my **TryHackMe** Profile [OreoBiscuit](https://tryhackme.com/p/oreobiscuit656) <br/>
-  - Check out My Streak Table **[Here](#my-streak-table)**
 
 <br/>
 
@@ -901,32 +900,6 @@
 - [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
-
-
-## My Streak Table
-| Day    | date            | Topic                                                                                                      |Total Room                  |    Room Completed             |
-| ------ |:---------------:|:--------------------------------------------------------------------------------------------------------:  |:-------------------------: | :-------------------------:   |     
-| **1**  | **21/11/23**    |        **[Introductory Rooms](#intro-rooms)**                                                              |           **10**           |       **10**                  |   
-| **2**  | **22/11/23**    |        **[Linux Fundamentals](#linux-fundamentals)** & **[Windows Fundamentals](#windows-fundamentals)**   |           **5+3**          |       **5+3**                 |
-| **3**  | **24/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **6**                   | 
-| **4**  | **26/11/23**    |        **[Basic Rooms](#basics-rooms)**                                                                    |           **9**            |       **1**                   | 
-| **5**  | **29/11/23**    |        **[Networking](#networking)**                                                                       |           **7**            |       **6**                   | 
-| **6**  | **2/12/23**     |        **[Scripting](#scripting)**                                                                         |           **7**            |       **6**                   | 
-| **7**  | **2/12/23**     |        **[Reconnaissance](#recon)**                                                                        |           **10**           |       **6**                   |
-| **8**  | **3/12/23**     |        **[Reconnaissance](#recon)**                                                                        |           **10**           |       **2**                   |
-| **9**  | **6/12/23**     |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
-| **10** | **7/12/23**     |        **[Tooling](#tooling)**                                                                             |           **17**           |       **11**                  |
-| **11** | **12/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   | 
-| **12** | **13/12/23**    |        **[Android](#android) &  [Wifi Hacking](#wi-fi-hacking)**                                           |           **1+1**          |       **2**                   | 
-| **13** | **13/12/23**    |        **[Tooling](#tooling)**                                                                             |           **17**           |       **2**                   |
-| **14** | **15/12/23**    |        **[Crypto & Hashes](#crypto--hashes)**                                                              |           **5**            |       **2**                   |
-| **15** | **19/12/23**    |        **[Reverse Engineering](#reverse-engineering) & [Malware Analysis](#malware-analysis)**             |           **11+7**         |       **7+4**                 |
-| **16** | **22/12/23**    |        **[Reverse Engineering](#reverse-engineering)**                                                     |           **11**           |       **1**                   |
-| **17** | **23/12/23**    |       **[Malware Analysis](#malware-analysis)**                                                            |           **7**            |       **1**                   |
-| **18** | **28/12/23**    |       **[Web](#web)**                                                                                      |           **27**           |       **13**                  |
-| **19** | **2/1/24**      |       **[Web](#web)**                                                                                      |           **27**           |       **6**                   |
-
-
 
 
 
