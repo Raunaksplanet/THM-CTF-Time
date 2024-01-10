@@ -36,7 +36,7 @@
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
 | **[Reverse Engineering](#reverse-engineering)**       | **11**          |        **8**              |    **3**    |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |        **5**              |    **2**    |
-| **[Privilege Escalation](#privesc)**                  | **13**          |                           |             |
+| **[Privilege Escalation](#privesc)**                  | **13**          |        **11**             |    **2**    |
 | **[Windows](#windows)**                               | **7**           |                           |             |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
@@ -376,11 +376,11 @@
 
 * [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 
-* [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+* [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)  **[unattempted]**
 
 * [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 
-* [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+* [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)  **[unattempted]**
 
 * [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
