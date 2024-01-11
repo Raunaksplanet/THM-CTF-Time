@@ -19,17 +19,17 @@
 
 | Name of Topic                                         | Number of Rooms | Number of Completed Rooms | Unattempted | 
 | -------------------------------------------------     |:---------------:|:-------------------------:| :----------:|
-| **[Introductory Rooms](#intro-rooms)**                | **8**           |        **7**              |    **1**    |
+| **[Introductory Rooms](#intro-rooms)**                | **8**           |        **8**              |    **0**    |
 | **[Linux Fundamentals](#linux-fundamentals)**         | **4**           |        **3**              |    **1**    |
 | **[Windows Fundamentals](#windows-fundamentals)**     | **3**           |        **3**              |    **0**    |
 | **[Basic Rooms](#basics-rooms)**                      | **9**           |        **7**              |    **0**    |
-| **[Reconnaissance](#recon)**                          | **10**          |        **8**              |    **2**    |
+| **[Reconnaissance](#recon)**                          | **10**          |        **9**              |    **1**    |
 | **[Scripting](#scripting)**                           | **8**           |        **4**              |    **4**    |
 | **[Networking](#networking)**                         | **6**           |        **5**              |    **1**    |
 | **[Tooling](#tooling)**                               | **17**          |        **16**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
 | **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |    **6**    |
-| **[Web](#web)**                                       | **27**          |        **19**             |    **8**    |
+| **[Web](#web)**                                       | **21**          |        **12**             |    **9**    |
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
@@ -43,7 +43,7 @@
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
-| **[Misc](#misc)**                                     | **30**          |                           |             |
+| **[Misc](#misc)**                                     | **31**          |        **27**             |    **4**    |
 | **[Special Events](#special-events)**                 | **9**           |                           |             |
 | **Total Rooms:**                                      | **= 378**       |                           |             |
 
@@ -65,7 +65,7 @@
 
 * [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
-* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) **[unattempted]**
+* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
 
 ## Linux Fundamentals
 
@@ -132,7 +132,7 @@
 
 * [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-* [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon) **[Unattempted]**
+* [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon) 
 
 * [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint) **[Unattempted]**
 
@@ -243,10 +243,6 @@
 
 ---
 
-* [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)  **[Private]**
-
-* [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)  **[Private]**
-
 * [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
 * [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
@@ -254,8 +250,6 @@
 * [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-* [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)  **[Private]**
 
 * [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
@@ -268,12 +262,6 @@
 * [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
 * [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
-
-* [TryHackMe | Injection](https://tryhackme.com/room/injection)  **[Private]**
-
-* [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)  **[Private]**
-
-* [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)  **[Private]**
 
 * [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)  **[unattempted]**
  
