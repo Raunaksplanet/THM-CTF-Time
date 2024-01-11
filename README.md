@@ -28,7 +28,7 @@
 | **[Networking](#networking)**                         | **6**           |        **5**              |    **1**    |
 | **[Tooling](#tooling)**                               | **17**          |        **16**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
-| **[Steganography](#steganography-unattempted-topic)** | **6**           |        **0**              |    **6**    |
+| **[Steganography](#steganography-unattempted-topic)** | **4**           |        **0**              |    **4**    |
 | **[Web](#web)**                                       | **21**          |        **12**             |    **9**    |
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
@@ -225,11 +225,7 @@
 ## Steganography unattempted topic
 ---
 
-* [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)  **[Private]**
-
 * [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-* [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)  **[Private]**
 
 * [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
