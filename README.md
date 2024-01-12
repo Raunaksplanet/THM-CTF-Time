@@ -858,8 +858,6 @@
 
 - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
 
-- [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
-
 - [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
