@@ -27,7 +27,7 @@
 | **[Scripting](#scripting)**                           | **7**           |        **4**              |    **3**    |
 | **[Networking](#networking)**                         | **6**           |        **5**              |    **1**    |
 | **[Tooling](#tooling)**                               | **15**          |        **14**             |    **1**    |
-| **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
+| **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **5**              |    **0**    |
 | **[Steganography](#steganography-unattempted-topic)** | **4**           |        **0**              |    **4**    |
 | **[Web](#web)**                                       | **21**          |        **12**             |    **9**    |
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
@@ -211,7 +211,7 @@
 
 * [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
-* [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)  **[Unattempted]**
+* [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2) 
 
 * [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
