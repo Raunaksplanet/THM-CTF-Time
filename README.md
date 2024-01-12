@@ -39,7 +39,6 @@
 | **[Windows](#windows)**                               | **7**           |                           |             |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
-| **[Buffer Overflow](#bufferoverflow-unattempted)**    | **4**           |        **0**              |    **4**    |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
@@ -423,17 +422,6 @@
 
 * [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-## BufferOverflow unattempted
-
----
-
-* [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
-
-* [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
-
-* [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
-
-* [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
 
