@@ -26,7 +26,7 @@
 | **[Reconnaissance](#recon)**                          | **10**          |        **9**              |    **1**    |
 | **[Scripting](#scripting)**                           | **7**           |        **4**              |    **3**    |
 | **[Networking](#networking)**                         | **6**           |        **5**              |    **1**    |
-| **[Tooling](#tooling)**                               | **17**          |        **16**             |    **1**    |
+| **[Tooling](#tooling)**                               | **15**          |        **14**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **4**              |    **1**    |
 | **[Steganography](#steganography-unattempted-topic)** | **4**           |        **0**              |    **4**    |
 | **[Web](#web)**                                       | **21**          |        **12**             |    **9**    |
@@ -175,15 +175,11 @@
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-* [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)  **[Private]**
-
 * [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 * [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux) **[Unattempted]**
 
 * [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-
-* [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)  **[Private]**
 
 * [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
