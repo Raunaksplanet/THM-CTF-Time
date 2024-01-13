@@ -29,7 +29,7 @@
 | **[Tooling](#tooling)**                               | **15**          |        **14**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **5**              |    **0**    |
 | **[Steganography](#steganography-unattempted-topic)** | **4**           |        **0**              |    **4**    |
-| **[Web](#web)**                                       | **21**          |        **12**             |    **9**    |
+| **[Web](#web)**                                       | **21**          |        **15**             |    **6**    |
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
@@ -254,7 +254,7 @@
 
 * [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)  **[unattempted]**
  
-* [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)  **[unattempted]**
+* [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)  
 
 * [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)  **[unattempted]**
 
@@ -266,11 +266,11 @@
 
 * [TryHackMe | Overpass](https://tryhackme.com/room/overpass)  **[unattempted]**
 
-* [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)   **[unattempted]**
+* [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)   
 
 * [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)  **[unattempted]**
 
-* [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)  **[unattempted]**
+* [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)  
 
 * [TryHackMe | Bolt](https://tryhackme.com/room/bolt)  **[unattempted]**
 
