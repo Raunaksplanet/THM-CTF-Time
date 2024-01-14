@@ -29,7 +29,7 @@
 | **[Tooling](#tooling)**                               | **15**          |        **14**             |    **1**    |
 | **[Crypto & Hashes](#crypto--hashes)**                | **5**           |        **5**              |    **0**    |
 | **[Steganography](#steganography-unattempted-topic)** | **4**           |        **0**              |    **4**    |
-| **[Web](#web)**                                       | **21**          |        **15**             |    **6**    |
+| **[Web](#web)**                                       | **21**          |        **16**             |    **5**    |
 | **[Android](#android)**                               | **1**           |        **1**              |    **0**    |
 | **[Forensics](#forensics-unattempted)**               | **5**           |        **0**              |    **5**    |
 | **[Wifi Hacking](#wi-fi-hacking)**                    | **1**           |        **1**              |    **0**    |
@@ -272,7 +272,7 @@
 
 * [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)  
 
-* [TryHackMe | Bolt](https://tryhackme.com/room/bolt)  **[unattempted]**
+* [TryHackMe | Bolt](https://tryhackme.com/room/bolt) 
 
 ## Android
 
