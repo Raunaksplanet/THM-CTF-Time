@@ -375,13 +375,13 @@
 
 * [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)  **[Unattempted]**
 
-* [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
+* [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)  **[unattempted]**
 
-* [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
+* [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)  **[unattempted]**
 
-* [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+* [TryHackMe | Anthem](https://tryhackme.com/room/anthem)  **[unattempted]**
 
-* [TryHackMe | Blue](https://tryhackme.com/room/blue)
+* [TryHackMe | Blue](https://tryhackme.com/room/blue)  **[unattempted]**
 
 ## Active Directory
 
