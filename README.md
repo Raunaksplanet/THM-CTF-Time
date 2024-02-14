@@ -36,7 +36,7 @@
 | **[Reverse Engineering](#reverse-engineering)**       | **6**           |        **3**              |    **3**    |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |        **5**              |    **2**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |        **12**             |    **1**    |
-| **[Windows](#windows)**                               | **7**           |                           |    **2**    |
+| **[Windows](#windows)**                               | **7**           |        **1**              |    **6**    |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
