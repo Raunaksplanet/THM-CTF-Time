@@ -36,7 +36,7 @@
 | **[Reverse Engineering](#reverse-engineering)**       | **6**           |        **3**              |    **3**    |
 | **[Malware Analysis](#malware-analysis)**             | **7**           |        **5**              |    **2**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |        **12**             |    **1**    |
-| **[Windows](#windows)**                               | **7**           |                           |             |
+| **[Windows](#windows)**                               | **7**           |                           |    **2**    |
 | **[Active Directory](#active-directory)**             | **5**           |                           |             |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
@@ -371,9 +371,9 @@
 
 * [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
-* [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
+* [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)  **[Unattempted]**
 
-* [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
+* [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)  **[Unattempted]**
 
 * [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
 
