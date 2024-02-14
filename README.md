@@ -37,7 +37,7 @@
 | **[Malware Analysis](#malware-analysis)**             | **7**           |        **5**              |    **2**    |
 | **[Privilege Escalation](#privesc)**                  | **13**          |        **12**             |    **1**    |
 | **[Windows](#windows)**                               | **7**           |        **1**              |    **6**    |
-| **[Active Directory](#active-directory)**             | **5**           |                           |             |
+| **[Active Directory](#active-directory)**             | **4**           |        **1**              |    **3**    |
 | **[PCAP Analysis](#pcap-analysis)**                   | **4**           |                           |             |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
@@ -389,13 +389,11 @@
 
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
-* [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+* [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit) **[unattempted]**
 
-* [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
+* [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise) **[unattempted]**
 
-* [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
-
-* [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
+* [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack) **[unattempted]**
 
 ## PCAP Analysis
 
