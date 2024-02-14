@@ -38,7 +38,7 @@
 | **[Privilege Escalation](#privesc)**                  | **13**          |        **12**             |    **1**    |
 | **[Windows](#windows)**                               | **7**           |        **1**              |    **6**    |
 | **[Active Directory](#active-directory)**             | **4**           |        **1**              |    **3**    |
-| **[PCAP Analysis](#pcap-analysis)**                   | **4**           |        **3**              |    **1**    |
+| **[PCAP Analysis](#pcap-analysis)**                   | **4**           |        **2**              |    **2**    |
 | **[Easy CTF](#easy-ctf)**                             | **58**          |                           |             |
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
@@ -403,7 +403,7 @@
 
 * [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)   **[unattempted]**
 
-* [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
+* [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)  **[unattempted]**
 
 * [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
