@@ -43,7 +43,7 @@
 | **[Medium CTF](#medium-ctf)**                         | **73**          |                           |             |
 | **[Hard CTF](#hard-ctf)**                             | **38**          |                           |             |
 | **[Misc](#misc)**                                     | **31**          |        **27**             |    **4**    |
-| **[Special Events](#special-events)**                 | **9**           |                           |             |
+| **[Special Events](#special-events)**                 | **9**           |         **0**             |    **9**    |
 | **Total Rooms:**                                      | **= 378**       |                           |             |
 
 ## Intro Rooms
